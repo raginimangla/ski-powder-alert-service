@@ -1,0 +1,81 @@
+{
+  "users": [
+    {
+      "last_name": "Johnson",
+      "first_name": "Larry",
+      "email": "l.johnson@example.com",
+      "powder_threshold_inches": 6,
+      "id": 1
+    },
+    {
+      "last_name": "Meyer",
+      "first_name": "Cornelius",
+      "email": "c.meyer@example.com",
+      "powder_threshold_inches": 8,
+      "id": 2
+    },
+    {
+      "last_name": "Patel",
+      "first_name": "Anita",
+      "email": "a.patel@example.com",
+      "powder_threshold_inches": 6,
+      "id": 3
+    },
+    {
+      "last_name": "Garcia",
+      "first_name": "Jorge",
+      "email": "j.garcia@example.com",
+      "powder_threshold_inches": 12,
+      "id": 4
+    },
+    {
+      "last_name": "Lombardo",
+      "first_name": "Hector",
+      "email": "h.lombardo@example.com",
+      "powder_threshold_inches": 10,
+      "id": 4
+    }
+  ],
+  "resorts": [
+    {
+      "user_id": 1,
+      "resort_name": "Vail",
+      "county": "Eagle",
+      "fresh_powder_inches": "10",
+      "traffic_conditions": "heavy",
+      "id": 1
+    },
+    {
+      "user_id": 1,
+      "resort_name": "Loveland",
+      "county": "Clear Creek",
+      "fresh_powder_inches": "2",
+      "traffic_conditions": "light",
+      "id": 2
+    },
+    {
+      "user_id": 2,
+      "resort_name": "Aspen",
+      "county": "Pitkin",
+      "fresh_powder": "4",
+      "traffic_conditions": "medium",
+      "id": 3
+    },
+    {
+      "user_id": 3,
+      "resort_name": "Copper Mountain",
+      "county": "Summit",
+      "fresh_powder": "0",
+      "traffic_conditions": "light",
+      "id": 4
+    },
+    {
+      "user_id": 3,
+      "resort_name": "Breckenridge",
+      "county": "Summit",
+      "fresh_powder": "12",
+      "traffic_conditions": "heavy",
+      "id": 4
+    }
+  ]
+}
