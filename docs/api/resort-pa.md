@@ -11,7 +11,6 @@ Base endpoint
 
 Contains resort information.
 
-
 ## Resource properties
 
 Sample `resort` resource

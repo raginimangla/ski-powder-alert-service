@@ -14,10 +14,12 @@ The Powder Alert service is a simple cloud-based API. With its two main resource
 * Receive notifications when your specified conditions are met.
 
 ## Authenticate
+
 Users authenticate into the service using their username and password.
 
 ## Base URL
-All requests to the Powder Alert API should be directed to the base URL: https://api.powderalert.com
+
+All requests to the Powder Alert API should be directed to the base URL: <https://api.powderalert.com>
 
 This base URL is the root endpoint for all API interactions, with specific resource paths appended to it.
 
@@ -34,7 +36,7 @@ Ready to dive into the Powder Alert API? Follow these simple steps to set up you
 * macOS/Linux: Terminal is pre-installed.
 * Windows: Command Prompt or PowerShell is pre-installed.
 
-3. **Install cURL**:
+1. **Install cURL**:
 
 * macOS: cURL is pre-installed.
 * Linux: Install cURL using your package manager (e.g., sudo apt install curl).
@@ -49,6 +51,7 @@ First, sign up for an account to access the Powder Alert API and then authentica
 ### (Optional) Step 3: Explore the Endpoints
 
 The Powder Alert API uses two main endpoints. Refer to the documentation for more details.
+
 * Users Resource []
 * Resorts Resource[]
 
@@ -57,6 +60,7 @@ The Powder Alert API uses two main endpoints. Refer to the documentation for mor
 * Set up your first powder alert []
 
 ## API Reference
+
 The API reference docs refer to a `{base_url}` when they refer to the URL of a resource. The `{base_url}` value depends
 on the installation of the service.
 
@@ -72,6 +76,7 @@ When running a local test, the `{base_url}` is generally `http://localhost:3000`
 * [Get resort details for all resorts]
 
 ## Tutorials
+
 text
 
 * Get powder details for a specific resort
