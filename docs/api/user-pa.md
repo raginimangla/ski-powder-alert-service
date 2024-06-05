@@ -41,9 +41,6 @@ The `user` resource supports these operations.
 
 * [Get all users](users-get-all-users)
 * [Get users by ID](users-get-user-by-id)
-* [Get users by email](users-get-user-by-email)
-* [Get users by first name](users-get-users-first-name)
-* [Get users by last name](users-get-users-last-name)
 * [Get users by powder threshold](users-get-users-powder-threshold)
 
 ### CREATE (POST)
@@ -53,8 +50,6 @@ The `user` resource supports these operations.
 ### UPDATE (PUT/PATCH)
 
 * [Update user by ID](users-update-by-id)
-* [Change user email](users-change-user-email.md)
-* [Change user property](users-change-user-property)
 
 ### DELETE
 

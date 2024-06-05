@@ -33,6 +33,7 @@ In the request body, specify a JSON representation of the [`user`](user) object.
 | email                   | String   | The email address of the user.                           |
 | powder_threshold_inches | Integer  | The snowfall threshold in inches for the user to receive alerts. |
 
+
 ## Sample request
 
 The PATCH request should look something like this. Replace `{server_url}` and `{user_id}`with the actual server URL and the user ID, and include the request body with the details of the user to be updated.

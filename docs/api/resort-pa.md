@@ -11,7 +11,6 @@ Base endpoint
 
 Contains resort information.
 
-
 ## Resource properties
 
 Sample `resort` resource
@@ -32,7 +31,7 @@ Sample `resort` resource
 | ------------- | ----------- | ----------- |
 | `user_id` | Integer | The ID of the user resources to which this resort is assigned. |
 | `resort_name` | String | The name of the resort. |
-| `county` | String | The county where the resort is located. |
+| `location` | String | The location of the resort. |
 | `fresh_powder_inches` | Integer | The current amount of fresh powder in inches at a resort. When this value exceeds a user's `powder_threshold_inches` value, the user receives an alert. |
 | `traffic_conditions` | String | A brief description of the current traffic conditions at a resort (e.g. "Light", "Medium", "Heavy"). |
 | `id` | Integer | The resort's unique record ID. |
@@ -47,9 +46,7 @@ The `resort` resource supports these operations.
 * [Get resort by ID](resorts-get-resort-by-id.md)
 * [Get resorts by user ID](resorts-get-resort-by-user-id.md)
 * [Get resorts by name](resorts-get-resort-by-name)
-* [Get resorts by county](resorts-get-resort-by-county)
 * [Get resorts by amount of fresh powder](resorts-get-resorts-by-amount-of-fresh-powder)
-* [Get resorts by traffic conditions](resorts-get-resorts-by-traffic-conditions)
 
 ### CREATE (POST)
 
