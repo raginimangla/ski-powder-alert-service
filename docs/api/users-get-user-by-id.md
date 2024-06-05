@@ -30,7 +30,6 @@ No request body is needed for this GET request. The user ID should be specified 
 
 The GET body should look something like this. Replace {user_id} with the actual user ID. Note that the headers are optional and can be included as needed.
 
-
 ```shell
 curl -X GET https://api.powderalert.com/v1/users/{user_id}
 ```

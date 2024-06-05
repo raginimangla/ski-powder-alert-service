@@ -8,10 +8,10 @@ layout: page
 
 The Powder Alert service is a simple cloud-based API. With its two main resources, **users** and **resorts**, the API allows you to:
 
-* Create and manage user profiles.
-* Retrieve detailed information about specific resorts.
-* Set up and customize powder alerts based on snowfall thresholds.
-* Receive notifications when your specified conditions are met.
+* **Get Resorts by Powder** Threshold Value: Learn how to query resorts based on specific snowfall thresholds, enabling you to provide users with real-time updates on the best powder conditions.
+* **Create and Manage User Profiles**: Understand how to create user accounts, update user information, and manage user preferences.
+* **Retrieve Resort Information**: Discover how to access detailed information about various mountain resorts, including current weather conditions and snowfall forecasts.
+* **Set Up Powder Alerts**: Configure and customize alerts to notify users when their specified snowfall conditions are met, ensuring they never miss out on fresh powder.
 
 ## Authenticate
 
@@ -52,8 +52,8 @@ First, sign up for an account to access the Powder Alert API and then authentica
 
 The Powder Alert API uses two main endpoints. Refer to the documentation for more details.
 
-* Users Resource []
-* Resorts Resource[]
+* [Users Resource](../api/user-pa.md)
+* [Resorts Resource](../api/resort-pa.md)
 
 ### Step 4: Set up Your First Powder Alert
 
@@ -66,23 +66,20 @@ on the installation of the service.
 
 When running a local test, the `{base_url}` is generally `http://localhost:3000`.
 
-* [users resource](api/user)
-* [resorts resource](api/resorts)
-* [Create a user]
-* [Get details of a specific user]
-* [Get details for all users]
-* [Create a resort]
-* [Get details of a specifc resort]
-* [Get resort details for all resorts]
+* [Users Resource](../api/user-pa.md)
+* [Resorts Resource](../api/resort-pa.md)
+* [Create a user](../api/users-create-user.md)
+* [Get user details for all users](../api/users-get-all-users.md)
+* [Get user details by user ID](../api/users-get-user-by-id.md)
+* [Create a resort](../api/resorts-add-resort.md)
+* [Get resort details by resort ID](../api/resorts-get-resort-by-id.md)
+* [Get resort preferences for a users](../api/resorts-get-resort-by-user.md)
 
 ## Tutorials
 
-text
+This series of tutorials will guide you through the process of utilizing the Powder Alert service to its fullest potential. Whether you are a beginner or an experienced developer, these step-by-step guides are designed to help you understand and implement key features of the Powder Alert API effectively.
 
-* Get powder details for a specific resort
-* Get user details for a specifc user
-* Get powder threshold preference for a user
-* Get a list of resorts by a specific threshold value
+* [Get resorts by powder threshold value](../tutorials/get-resorts-by-powder-threshold.md)
 
 ## Error Handling
 
