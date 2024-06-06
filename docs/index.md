@@ -66,8 +66,8 @@ on the installation of the service.
 
 When running a local test, the `{base_url}` is generally `http://localhost:3000`.
 
-* [Users Resource](../api/user-pa.md)
-* [Resorts Resource](../api/resort-pa.md)
+* [Users Resource](/docs/api/user-pa.md)
+* [Resorts Resource](/docs/api/resort-pa.md)
 * [Create a user](../api/users-create-user.md)
 * [Get user details for all users](../api/users-get-all-users.md)
 * [Get user details by user ID](../api/users-get-user-by-id.md)
@@ -79,7 +79,7 @@ When running a local test, the `{base_url}` is generally `http://localhost:3000`
 
 This series of tutorials will guide you through the process of utilizing the Powder Alert service to its fullest potential. Whether you are a beginner or an experienced developer, these step-by-step guides are designed to help you understand and implement key features of the Powder Alert API effectively.
 
-* [Get resorts by powder threshold value](../tutorials/get-resorts-by-powder-threshold.md)
+* [Get resorts by powder threshold value](..docs/tuorials/get-resorts-by-powder-threshold.md)
 
 ## Error Handling
 
