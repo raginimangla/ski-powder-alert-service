@@ -57,6 +57,7 @@ To retrieve resorts by powder threshold value:
 ```
 
 ## Next steps
+
 After completing this tutorial in Postman, you may want to replicate it in your preferred programming language. To do this, adapt the values from the tutorial to the properties and arguments used in making HTTP requests in your chosen language.
 
 By following this tutorial, you'll be equipped to integrate the Powder Alert API into your applications, allowing users to receive real-time updates on powder conditions at their favorite resorts. Enjoy exploring the fresh powder!
