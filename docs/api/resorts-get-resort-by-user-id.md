@@ -80,5 +80,3 @@ The following example shows the response.
 | 404             | Not Found             | The resort with the specified ID was not found. |
 | 500             | Internal Server Error | An error occurred on the server.               |
 | ECONNREFUSED    | N/A                   | Service is offline. Start the service and try again. |
-
-## Related information

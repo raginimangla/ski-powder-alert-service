@@ -74,5 +74,3 @@ The following example shows the response. Note that the names should be the same
 | 400             | Bad Request           | The request was invalid or missing parameters. |
 | 500             | Internal Server Error | An error occurred on the server.               |
 | ECONNREFUSED    | N/A                   | Service is offline. Start the service and try again. |
-
-## Related information
