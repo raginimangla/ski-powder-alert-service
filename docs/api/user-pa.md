@@ -45,7 +45,7 @@ The `user` resource supports these operations.
 
 ### CREATE (POST)
 
-* [Create user](users-create-user)
+* [Create a user](users-create-user)
 
 ### UPDATE (PUT/PATCH)
 
