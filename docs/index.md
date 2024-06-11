@@ -33,8 +33,8 @@ Explore the Powder Alert service's two main endpoints - **users** and **resorts*
 The following API refernece endpoints are available:
 
 * [Users Resource](api/user-pa)
-* [Resorts Resource](/api/resort-pa.md)
-* [Create a user](/api/users-create-user)
+* [Resorts Resource](/api/resort-pa)
+* [Create a user](api/users-create-user)
 * [Get user details for all users](api/users-get-all-users)
 * [Get user details by user ID](api/users-get-user-by-id)
 * [Create a resort](api/resorts-create-resort)
@@ -47,11 +47,11 @@ The following API refernece endpoints are available:
 
 This series of tutorials will guide you through the process of utilizing the Powder Alert service to its fullest potential. Whether you are a beginner or an experienced developer, these step-by-step guides are designed to help you understand and implement key features of the Powder Alert API effectively.
 
-* [Get Resorts by Powder Threshold Value](/tutorials/get-resorts-by-threshold): Query resorts based on specific snowfall thresholds.
+* [Get Resorts by Powder Threshold Value](tutorials/get-resorts-by-threshold): Query resorts based on specific snowfall thresholds.
 
-* [Manage Alerts](/tutorials/manage-alerts)/: Understand how to create and manage user accounts and preferences.
+* [Manage Alerts](tutorials/manage-alerts)/: Understand how to create and manage user accounts and preferences.
 
-* [Set Up Powder Alerts](/tutorials/set-up-powder-alerts): Configure and customize alerts to notify users about specified snowfall conditions.
+* [Set Up Powder Alerts](tutorials/set-up-powder-alerts): Configure and customize alerts to notify users about specified snowfall conditions.
 
 ## Error Handling
 
