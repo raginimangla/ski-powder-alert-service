@@ -24,7 +24,7 @@ This base URL is the root endpoint for all API interactions, with specific resou
 
 ## Get Started
 
-Ready to dive in? Start with our [Quick Start Guide](docs/quick-start.md) for a seamless setup experience and your first API call.
+Ready to dive in? Start with our [Quick Start Guide](quick-start) for a seamless setup experience and your first API call.
 
 ## API Reference
 
@@ -32,14 +32,14 @@ Explore the Powder Alert service's two main endpoints - **users** and **resorts*
 
 The following API refernece endpoints are available:
 
-* [Users Resource](docs/api/user-pa.md)
-* [Resorts Resource](docs/api/resort-pa)
-* [Create a user](../api/users-create-user.md)
-* [Get user details for all users](../api/users-get-all-users.md)
-* [Get user details by user ID](../api/users-get-user-by-id.md)
-* [Create a resort](../api/resorts-add-resort.md)
-* [Get resort details by resort ID](../api/resorts-get-resort-by-id.md)
-* [Get resort preferences for a users](../api/resorts-get-resort-by-user.md)
+* [Users Resource](api/user-pa)
+* [Resorts Resource](/api/resort-pa)
+* [Create a user](/api/users-create-user)
+* [Get user details for all users](/api/users-get-all-users)
+* [Get user details by user ID](/api/users-get-user-by-id)
+* [Create a resort](/api/resorts-add-resort)
+* [Get resort details by resort ID](/api/resorts-get-resort-by-id)
+* [Get resort preferences for a users](/api/resorts-get-resort-by-user)
 
 **Note**: In the documentation, the `{server_url}`refers to the URL of a resource. The `{server_url}` value depends on the installation of the service. When running a local test, the `{server_url}` is generally `http://localhost:3000`.
 
@@ -47,12 +47,12 @@ The following API refernece endpoints are available:
 
 This series of tutorials will guide you through the process of utilizing the Powder Alert service to its fullest potential. Whether you are a beginner or an experienced developer, these step-by-step guides are designed to help you understand and implement key features of the Powder Alert API effectively.
 
-* [Get Resorts by Powder Threshold Value](docs/tutorials/get-resorts-by-threshold): Query resorts based on specific snowfall thresholds.
+* [Get Resorts by Powder Threshold Value](/tutorials/get-resorts-by-threshold): Query resorts based on specific snowfall thresholds.
 
-* [Manage Alerts](docs/tutorials/manage-alerts): Understand how to create and manage user accounts and preferences.
+* [Manage Alerts](/tutorials/manage-alerts): Understand how to create and manage user accounts and preferences.
 
-* [Set Up Powder Alerts](docs/tutorials/set-up-powder-alerts): Configure and customize alerts to notify users about specified snowfall conditions.
+* [Set Up Powder Alerts](/tutorials/set-up-powder-alerts): Configure and customize alerts to notify users about specified snowfall conditions.
 
 ## Error Handling
 
-The Powder Alert service follows standard HTTP status codes to indicate the success or failure of an API call. For more information about how errors are handled by the API service, refer to the [Error Handling](/docs/error-handling) documentation.
+The Powder Alert service follows standard HTTP status codes to indicate the success or failure of an API call. For more information about how errors are handled by the API service, refer to the [Error Handling](docs/error-handling) documentation.
