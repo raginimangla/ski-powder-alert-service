@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# Get All Users
+# Get User Details for All Users
 
 Retrieve a list of all registered users. This endpoint allows you to fetch information about all users within the system.
 

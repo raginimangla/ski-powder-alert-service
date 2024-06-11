@@ -33,7 +33,7 @@ Explore the Powder Alert service's two main endpoints - **users** and **resorts*
 The following API refernece endpoints are available:
 
 * [Users Resource](api/user-pa)
-* [Resorts Resource](/api/resort-pa)
+* [Resorts Resource](api/resort-pa.md)
 * [Create a user](api/users-create-user)
 * [Get user details for all users](api/users-get-all-users)
 * [Get user details by user ID](api/users-get-user-by-id)
@@ -49,7 +49,7 @@ This series of tutorials will guide you through the process of utilizing the Pow
 
 * [Get Resorts by Powder Threshold Value](tutorials/get-resorts-by-threshold): Query resorts based on specific snowfall thresholds.
 
-* [Manage Alerts](tutorials/manage-alerts)/: Understand how to create and manage user accounts and preferences.
+* [Manage Alerts](tutorials/manage-alerts): Understand how to create and manage user accounts and preferences.
 
 * [Set Up Powder Alerts](tutorials/set-up-powder-alerts): Configure and customize alerts to notify users about specified snowfall conditions.
 
