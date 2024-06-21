@@ -6,7 +6,7 @@ layout: page
 
 # Tutorial: Set Up Powder Alerts
 
-In this tutorial, you will learn how to configure and customize alerts to notify users when their specified snowfall conditions are met, ensuring they never miss out on fresh powder.
+In this tutorial, you will learn how to configure alerts to notify users when their specified snowfall conditions are met.
 
 Expect this tutorial to take about 15 minutes to complete.
 
@@ -59,3 +59,10 @@ To set up powder alerts:
     "powder_threshold": 12,
     "notification_method": "email"
 }
+```
+
+---
+
+## Next Steps
+
+After completing this tutorial in Postman, you may want to replicate it in your preferred programming language. Adapt the values from this tutorial to the properties and arguments used in making HTTP requests in your chosen language.

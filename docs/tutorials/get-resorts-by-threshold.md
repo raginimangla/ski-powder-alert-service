@@ -30,12 +30,12 @@ To retrieve resorts by powder threshold value:
 3. Create a new request with the following values:
     - **Method**: GET
     - **URL**: `{server_url}/resorts?powder_threshold=<threshold_value>`
-        - **Note**: Replace `<threshold_value>` with the desired snowfall threshold value (e.g., 12 for 12 inches of snow)
+        - (Replace `<threshold_value>` with the desired snowfall threshold value (For example, 12 for 12 inches of snow))
     - **Headers**: `Content-Type: application/json`
 
 4. Click **Send** to make the request.
 
-5. Review the response body, which should contain an array of resorts that meet the specified powder threshold criteria. Each resort object should include details such as name, location, current snowfall, and other relevant information.
+5. Review the response body. It should contain an array of resorts that meet the specified powder threshold criteria.
 
 ### Sample Response
 
@@ -56,3 +56,10 @@ To retrieve resorts by powder threshold value:
         "id" : 4
     }
 ]
+```
+
+---
+
+## Next steps
+
+After completing this tutorial in Postman, you may want to replicate it in your preferred programming language. Adapt the values from this tutorial to the properties and arguments used in making HTTP requests in your chosen language.
