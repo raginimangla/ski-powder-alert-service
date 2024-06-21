@@ -42,6 +42,7 @@ The `resort` resource supports these operations.
 
 ### READ (GET)
 
+
 * [Get all resorts](docs/api/resorts-get-all-resorts.md)
 * [Get resort by ID](docs/api/resorts-get-resort-by-id.md)
 * [Get resorts by user ID](docs/api/resorts-get-resort-by-user-id.md)
@@ -49,6 +50,7 @@ The `resort` resource supports these operations.
 ### CREATE (POST)
 
 * [create a resort](docs/api/resorts-create-resort.md)
+
 
 ### UPDATE (PUT/PATCH)
 

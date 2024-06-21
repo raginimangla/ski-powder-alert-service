@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# Get a User By ID
+# Get User Details by User ID
 
 Retrieve detailed information about a specific user by their user ID. This endpoint allows you to fetch the profile details of a particular user.
 

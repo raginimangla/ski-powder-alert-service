@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# Get a Resort By User ID
+# Get a List of Resorts Assigned a Specific User
 
 Retrieve a list of resorts assigned to a specific user using their user ID. This endpoint allows you to query resorts associated with a particular user, providing details such as resort names, locations, current fresh powder inches, and traffic conditions.
 
