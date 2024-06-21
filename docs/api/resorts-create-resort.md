@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# Add a Resort
+# Create a Resort
 
 Register a new resort with the Powder Alert service. This endpoint allows you to create a new resort with details such as the resort name, location, current fresh powder inches, and traffic conditions.
 The request body contains the new user details.
