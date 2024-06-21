@@ -43,7 +43,7 @@ To create a new alert:
 
 3. Click **Send** to make the request.
 
-4. Review the response body, which should confirm the creation of the alert with the specified criteria.
+4. Review the response body. It should confirm the creation of the alert with the specified criteria.
 
 ### Update an Existing Alert
 
@@ -83,18 +83,14 @@ To delete an alert:
 
     - **Method**: DELETE
     - **URL**: `{server_url}/alerts/{alert_id}`
-      - **Note**: Replace `{alert_id}` with the ID of the alert you want to delete.
+      - (Replace `{alert_id}` with the ID of the alert you want to delete.)
 
 3. Click **Send** to make the request.
 
 4. Review the response body, which should confirm the deletion of the alert.
 
+---
+
 ## Next steps
 
 After completing this tutorial in Postman, you may want to replicate it in your preferred programming language. Adapt the values from this tutorial to the properties and arguments used in making HTTP requests in your chosen language.
-
-By following this tutorial, you'll be able to effectively manage alerts in the Powder Alert service, ensuring users receive timely notifications about their preferred snowfall conditions.
-
----
-
-This tutorial provides a comprehensive guide to managing alerts in the Powder Alert service, covering creation, updating, and deletion of alerts.

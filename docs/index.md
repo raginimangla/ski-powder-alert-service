@@ -4,8 +4,9 @@ layout: page
 
 # Powder Alert Service API
 
-Explore the comprehensive documentation for the Powder Alert service, your go-to solution for real-time updates on snowfall levels at various mountain resorts.
-The Powder Alert service is a simple cloud-based API. With its two main resources, **users** and **resorts**, the API allows you to:
+The Powder Alert service is a simple cloud-based API that helps you get real-time updates on snowfall level at nearby  mountain resorts. The service also enables you to manage user profiles, keep a record of their favorite resorts, and send notifications when there is a threshold level of snow at a particular resort.
+
+It has two main resources, **users** and **resorts**. You can use the API service to perform the following key functions:
 
 * **Get Resorts by Powder Threshold Value**: Learn how to query resorts based on specific snowfall thresholds, enabling you to provide users with real-time updates on the best powder conditions.
 * **Create and Manage User Profiles**: Understand how to create user accounts, update user information, and manage user preferences.
@@ -14,17 +15,17 @@ The Powder Alert service is a simple cloud-based API. With its two main resource
 
 ## Authentication
 
-For v1 of the Powder Alert service, requests do not use any authorization. All endpoints are available to all users and applications.
+The Powder Alert service requests do not use any authorization. All endpoints are available to all users and applications.
 
 ## Base URL
 
-All requests to the Powder Alert API should be directed to the base URL: <https://api.powderalert.com>
+All requests to the Powder Alert API should be directed to the base URL: `https://api.powderalert.com`
 
 This base URL is the root endpoint for all API interactions, with specific resource paths appended to it.
 
 ## Get Started
 
-Ready to dive in? Start with our [Quick Start Guide](docs/quick-start.md) for a seamless setup experience and your first API call.
+Ready to dive in? Start with our [Quick Start Guide](docs/quick-start.md) for a seamless setup experience and to make your first API call.
 
 ## API Reference
 
