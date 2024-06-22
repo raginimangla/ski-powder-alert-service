@@ -39,9 +39,9 @@ The `user` resource supports these operations.
 
 ### READ (GET)
 
-* [Get all Users](api/users-get-all-users)
-* [Get a User by User ID](api/users-get-user-by-id)
-* [Get Users by Powder Threshold](api/users-get-users-by-threshold)
+* [Get all Users](docs/api/users-get-all-users)
+* [Get a User by User ID](docs/api/users-get-user-by-id)
+* [Get Users by Powder Threshold](docs/api/users-get-users-by-threshold)
 
 ### CREATE (POST)
 
