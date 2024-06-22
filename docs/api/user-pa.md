@@ -39,14 +39,14 @@ The `user` resource supports these operations.
 
 ### READ (GET)
 
-* [Get all users](users-get-all-users.md)
-* [Get users by ID](users-get-user-by-id.md)
-* [Get users by powder threshold](users-get-users-by-threshold.md)
+* [Get all users](api/users-get-all-users)
+* [Get users by ID](api/users-get-user-by-id)
+* [Get users by powder threshold](api/users-get-users-by-threshold)
 
 ### CREATE (POST)
 
-* [Create user](docs/api/users-create-user.md)
+* [Create user](api/users-create-user.md)
 
 ### UPDATE (PUT/PATCH)
 
-* [Update user by ID](/docs/api/users-update-by-id.md)
+* [Update user by ID](api/users-update-by-id.md)
