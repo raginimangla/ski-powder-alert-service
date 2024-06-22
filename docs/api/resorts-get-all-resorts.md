@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-# Get All Resorts
+# Get all Resorts
 
 Retrieve detailed information about all resorts. This endpoint allows you to query and get information such as resort names, locations, current powder inches, and traffic conditions for all resorts.
 

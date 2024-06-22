@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# Get Resort Details by Resort ID
+# Get a Resort by Resort ID
 
 Retrieve detailed information about a specific resort using its unique ID. This endpoint allows you to query a resort and get information such as resort's name, location, current powder inches, and traffic conditions.
 

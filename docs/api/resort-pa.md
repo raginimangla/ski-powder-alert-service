@@ -43,15 +43,14 @@ The `resort` resource supports these operations.
 ### READ (GET)
 
 
-* [Get all resorts](api/resorts-get-all-resorts.md)
-* [Get resort by ID](api/resorts-get-resort-by-id.md)
-* [Get resorts by user ID](api/resorts-get-resort-by-user-id.md)
+* [Get all Resorts](api/resorts-get-all-resorts)
+* [Get Resort by ID](api/resorts-get-resort-by-id)
+* [Get Resorts by User ID](api/resorts-get-resort-by-user-id)
 
 ### CREATE (POST)
 
-* [create a resort](api/resorts-create-resort.md)
-
+* [Create a Resort](api/resorts-create-resort)
 
 ### UPDATE (PUT/PATCH)
 
-* [Update a resort with PATCH](api/update-resort-by-id.md)
+* [Update a Resort](api/update-resort-by-id)
