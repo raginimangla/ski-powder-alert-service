@@ -37,7 +37,7 @@ To create a new alert:
         "resort_id": 1,
         "powder_threshold_inches": 6,
         "notification_method": "email",
-         "id": 5
+        "id": 5
     }
     ```
 
