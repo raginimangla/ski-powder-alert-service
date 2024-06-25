@@ -34,7 +34,7 @@ Explore the Powder Alert service's two main endpoints - **users** and **resorts*
 The following API refernece endpoints are available:
 
 * [Users resource](api/user-pa)
-* [Resorts resource](api/resort-pa)
+* [Resorts resource](/docs/api/resort-pa)
 * [Get all users](api/users-get-all-users)
 * [Get a user by user ID](api/users-get-user-by-id)
 * [Create a resort](api/resorts-create-resort)
