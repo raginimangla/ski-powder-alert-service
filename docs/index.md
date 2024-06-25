@@ -4,14 +4,14 @@ layout: page
 
 # Powder Alert Service API
 
-The Powder Alert service is a simple cloud-based API that helps you get real-time updates on snowfall level at nearby  mountain resorts. The service also enables you to manage user profiles, keep a record of their favorite resorts, and send notifications when there is a threshold level of snow at a particular resort.
+The Powder Alert service is a simple cloud-based API that helps you get real-time updates on snowfall levels at nearby  mountain resorts. This service also enables you to manage user profiles, keep a record of their favorite resorts, and send notifications when a resorts meets a specific threshold level of fresh powder or snow.
 
-It has two main resources, **users** and **resorts**. You can use the API service to perform the following key functions:
+The API has two resources, **users** and **resorts**. You can use the Powder Alert service to perform the following key functions:
 
-* **Get Resorts by Powder Threshold Value**: Learn how to query resorts based on specific snowfall thresholds, enabling you to provide users with real-time updates on the best powder conditions.
-* **Create and Manage User Profiles**: Understand how to create user accounts, update user information, and manage user preferences.
-* **Retrieve Resort Information**: Discover how to access detailed information about various mountain resorts.
-* **Set Up Powder Alerts**: Configure and customize alerts to notify users when their specified snowfall conditions are met, ensuring they never miss out on fresh powder.
+* **Create and Manage User Profiles**: Create user accounts, update user information, and manage user preferences for fresh powder.
+* **Retrieve Resort Information**: Access detailed information about various mountain resorts, including fresh powder (in inches) at each resort .
+* **Get Resorts by Powder Threshold Value**: Query resorts based on specific snowfall thresholds.
+* **Set Up Powder Alerts**: Configure and customize alerts to notify users when their specified snowfall conditions are met.
 
 ## Authentication
 
@@ -25,17 +25,16 @@ This base URL is the root endpoint for all API interactions, with specific resou
 
 ## Get Started
 
-Ready to dive in? Start with our [Quick Start Guide](docs/quick-start.md) for a seamless setup experience and to make your first API call.
+Ready to plunge? Use the following [Quick Start Guide](/docs/quick-start.md#) to set up your development environment and make your first API call.
 
 ## API Reference
 
-Explore the Powder Alert service's two main endpoints - **users** and **resorts** and the supported HTTP operations. The API reference documentation consists of information about the supported endpoints and their parameters.
+Explore the Powder Alert service's two main endpoints - **users** and **resorts** and their supported HTTP operations.
 
 The following API refernece endpoints are available:
 
-* [Users Resource](api/user-pa)
-* [Resorts Resource](api/resort-pa.md)
-* [Create a user](api/users-create-user)
+* [Users Resource](/docs/api/user-pa.md)
+* [Resorts Resource](../docs/api/resort-pa.md)
 * [Get user details for all users](api/users-get-all-users)
 * [Get user details by user ID](api/users-get-user-by-id)
 * [Create a resort](api/resorts-create-resort)
@@ -43,17 +42,16 @@ The following API refernece endpoints are available:
 * [Get resort details by resort ID](api/resorts-get-resort-by-id)
 * [Get a list of resorts assigned to a specific user](api/resorts-get-resort-by-user-id)
 
-**Note**: In the documentation, the `{server_url}`refers to the URL of a resource. The `{server_url}` value depends on the installation of the service. When running a local test, the `{server_url}` is generally `http://localhost:3000`.
+**Note**: In this documentation, the `{server_url}`refers to the URL of a resource. The `{server_url}` value depends on the installation of the service. When running a local test, the `{server_url}` is generally `http://localhost:3000`.
 
 ## Tutorials
 
-This series of tutorials will guide you through the process of utilizing the Powder Alert service to its fullest potential. Whether you are a beginner or an experienced developer, these step-by-step guides are designed to help you understand and implement key features of the Powder Alert API effectively.
+Use these step-by-step tutorials to understand how to implement the key features of the Powder Alert API service effectively.
 
-* [Get Resorts by Powder Threshold Value](tutorials/get-resorts-by-threshold): Query resorts based on specific snowfall thresholds.
-
-* [Manage Alerts](tutorials/manage-alerts): Understand how to create and manage user accounts and preferences.
-
-* [Set Up Powder Alerts](tutorials/set-up-powder-alerts): Configure and customize alerts to notify users about specified snowfall conditions.
+* [Create a user](api/users-create-user): Create and manage user profiles.
+* [Set Up Powder Alerts](tutorials/set-up-powder-alerts): Configure alerts to notify users about their specified snowfall conditions.
+* [Manage Alerts](tutorials/manage-alerts): Create and manage user alerts.
+* [Get Resorts by Powder Threshold Value](tutorials/get-resorts-by-threshold): Query resorts based on specific snowfall threshold level.
 
 ## Error Handling
 
