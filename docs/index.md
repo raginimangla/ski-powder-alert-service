@@ -25,7 +25,7 @@ This base URL is the root endpoint for all API interactions, with specific resou
 
 ## Get Started
 
-Ready to plunge? Use the following [Quick Start Guide](/docs/quick-start.md#) to set up your development environment and make your first API call.
+Ready to plunge? Use the following [Quick Start Guide](docs/quick-start) to set up your development environment and make your first API call.
 
 ## API Reference
 
@@ -33,13 +33,13 @@ Explore the Powder Alert service's two main endpoints - **users** and **resorts*
 
 The following API refernece endpoints are available:
 
-* [Users Resource](/docs/api/user-pa.md)
-* [Resorts Resource](../docs/api/resort-pa.md)
-* [Get user details for all users](api/users-get-all-users)
-* [Get user details by user ID](api/users-get-user-by-id)
+* [Users resource](api/user-pa)
+* [Resorts resource](../docs/api/resort-pa.md)
+* [Get all users](api/users-get-all-users)
+* [Get a user by user ID](api/users-get-user-by-id)
 * [Create a resort](api/resorts-create-resort)
-* [Get resort details for all resorts](api/resorts-get-all-resorts)
-* [Get resort details by resort ID](api/resorts-get-resort-by-id)
+* [Get all resorts](api/resorts-get-all-resorts)
+* [Get a resort by resort ID](api/resorts-get-resort-by-id)
 * [Get a list of resorts assigned to a specific user](api/resorts-get-resort-by-user-id)
 
 **Note**: In this documentation, the `{server_url}`refers to the URL of a resource. The `{server_url}` value depends on the installation of the service. When running a local test, the `{server_url}` is generally `http://localhost:3000`.
