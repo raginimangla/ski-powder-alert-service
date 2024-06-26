@@ -43,8 +43,8 @@ The `resort` resource supports these operations.
 ### READ (GET)
 
 * [Get all Resorts](/ski-powder-alert-service/api/resorts-get-resort-by-user-id)
-* [Get Resort by ID](/resorts-get-resort-by-id)
-* [Get Resorts by User ID](/resorts-get-resort-by-user-id)
+* [Get Resort by ID](/ski-powder-alert-service/api/resorts-get-resort-by-id)
+* [Get Resorts by User ID](/ski-powder-alert-service/api/resorts-get-resort-by-user-id)
 
 ### CREATE (POST)
 
