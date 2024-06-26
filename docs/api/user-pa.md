@@ -49,4 +49,4 @@ The `user` resource supports these operations.
 
 ### UPDATE (PUT/PATCH)
 
-* [Update a User by ID](/ski-powder-alert-service/api/update-by-id)
+* [Update a User by ID](/ski-powder-alert-service/api/users-update-by-id)
