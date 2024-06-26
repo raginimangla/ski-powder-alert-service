@@ -42,14 +42,14 @@ The `resort` resource supports these operations.
 
 ### READ (GET)
 
-* [Get all Resorts](../ski-powder-alert-service/api/resorts-get-all-resorts)
-* [Get Resort by ID](../ski-powder-alert-service/api/resorts/get-resort-by=id)
-* [Get Resorts by User ID](../ski-powder-alert-service/api/resorts-get-resort-by-user-id)
+* [Get all Resorts](api/resorts-get-all-resorts)
+* [Get Resort by ID](/api/resorts/get-resort-by=id)
+* [Get Resorts by User ID](api/resorts-get-resort-by-user-id)
 
 ### CREATE (POST)
 
-* [Create a Resort](../ski-powder-alert-service/api/resorts-create-resort)
+* [Create a Resort](api/resorts-create-resort)
 
 ### UPDATE (PUT/PATCH)
 
-* [Update a Resort](../ski-powder-alert-service/api/resorts-update-resort-by-id)
+* [Update a Resort](api/resorts-update-resort-by-id)
