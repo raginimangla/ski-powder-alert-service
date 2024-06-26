@@ -45,7 +45,7 @@ The `user` resource supports these operations.
 
 ### CREATE (POST)
 
-* [Create a user](tutorials/users-create-user)
+* [Create a user](/ski-powder-alert-service/tutorials/users-create-user)
 
 ### UPDATE (PUT/PATCH)
 
