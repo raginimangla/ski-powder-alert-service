@@ -39,14 +39,14 @@ The `user` resource supports these operations.
 
 ### READ (GET)
 
-* [Get all Users](docs/api/users-get-all-users)
-* [Get a User by User ID](docs/api/users-get-user-by-id)
-* [Get Users by Powder Threshold](docs/api/users-get-users-by-threshold)
+* [Get all Users](/ski-powder-alert-service/api/users-get-all-users)
+* [Get a User by User ID](/ski-powder-alert-service/api/users-get-user-by-id)
+* [Get Users by Powder Threshold](/ski-powder-alert-service/api/users-get-users-by-threshold)
 
 ### CREATE (POST)
 
-* [Create a User](api/users-create-user.md)
+* [Create a user](/tutorials/users-create-user)
 
 ### UPDATE (PUT/PATCH)
 
-* [Update a User by ID](api/users-update-by-id.md)
+* [Update a User by ID](/ski-powder-alert-service/api/users-update-by-id)

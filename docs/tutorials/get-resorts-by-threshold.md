@@ -10,7 +10,7 @@ Expect this tutorial to take about 15 minutes to complete.
 
 ## Before you start
 
-Make sure you have completed the setup steps outlined in the [Get Started](../doc/get-started.md) section of the documentation. Ensure you have Postman installed on your system or have access to a similar API testing tool.
+Make sure you have completed the setup steps outlined in the [Quick Start Guide](../ski-powder-alert-service/quick-start). Ensure you have Postman installed on your system or have access to a similar API testing tool.
 
 ## Retrieve resorts by powder threshold value
 
