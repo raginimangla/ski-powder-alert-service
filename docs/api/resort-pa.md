@@ -52,4 +52,4 @@ The `resort` resource supports these operations.
 
 ### UPDATE (PUT/PATCH)
 
-* [Update a Resort](/ski-powder-alert-service/api/resorts-update-resort-by-id)
+* [Update a Resort](/ski-powder-alert-service/api/update-resort-by-id)
