@@ -42,7 +42,7 @@ The `resort` resource supports these operations.
 
 ### READ (GET)
 
-* [Get all Resorts](/docs/api/resorts-get-all-resorts)
+* [Get all Resorts](api/resorts-get-all-resorts)
 * [Get Resort by ID](/docs/api/resorts-get-resort-by-id)
 * [Get Resorts by User ID](/resorts-get-resort-by-user-id)
 
