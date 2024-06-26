@@ -25,7 +25,7 @@ This base URL is the root endpoint for all API interactions, with specific resou
 
 ## Get Started
 
-Ready to plunge? Use the following [Quick Start Guide](/quick-start) to set up your development environment and make your first API call.
+Ready to plunge? Use the following [Quick Start Guide] (../ski-powder-alert-service/quick-start) to set up your development environment and make your first API call.
 
 ## API Reference
 
