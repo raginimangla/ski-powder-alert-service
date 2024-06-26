@@ -42,14 +42,14 @@ The `resort` resource supports these operations.
 
 ### READ (GET)
 
-* [Get all Resorts](resorts-get-all-resorts)
-* [Get Resort by ID](api/resorts/get-resort-by=id)
-* [Get Resorts by User ID](resorts-get-resort-by-user-id)
+* [Get all Resorts](/resorts-get-all-resorts)
+* [Get Resort by ID](/resorts/get-resort-by=id)
+* [Get Resorts by User ID](/resorts-get-resort-by-user-id)
 
 ### CREATE (POST)
 
-* [Create a Resort](resorts-create-resort)
+* [Create a Resort](/resorts-create-resort)
 
 ### UPDATE (PUT/PATCH)
 
-* [Update a Resort](resorts-update-resort-by-id)
+* [Update a Resort](/resorts-update-resort-by-id)
