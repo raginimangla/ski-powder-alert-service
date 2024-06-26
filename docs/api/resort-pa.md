@@ -48,8 +48,8 @@ The `resort` resource supports these operations.
 
 ### CREATE (POST)
 
-* [Create a Resort](/resorts-create-resort)
+* [Create a Resort](/ski-powder-alert-service/api/resorts-create-resort)
 
 ### UPDATE (PUT/PATCH)
 
-* [Update a Resort](/resorts-update-resort-by-id)
+* [Update a Resort](/ski-powder-alert-service/api/resorts-update-resort-by-id)
